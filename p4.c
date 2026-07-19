@@ -1,5 +1,4 @@
 #include<stdio.h>
-
 int main() {
     int c[10][10], d[10], v[10]={0}, n, s, i, j, u, min;
     printf("Enter vertices: ");
